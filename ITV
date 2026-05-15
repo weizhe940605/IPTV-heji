@@ -25,11 +25,17 @@
         {
             "name": "咪咕直播",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/proxy/mg.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "咪咕直播2",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "咪咕直播3",
             "type": 0,
             "url": "http://115.190.247.176:1111",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
@@ -252,9 +258,15 @@
 
 
         {
-            "name": "JACKTV",
+            "name": "JACKTV1",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "JACKTV2",
+            "type": 0,
+            "url": "https://php.946985.filegear-sg.me/test.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
