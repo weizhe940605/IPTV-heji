@@ -7,14 +7,10 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "国际ILOOK",
+            "name": "SMARTV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/ilook.m3u"
-        },
-        {
-            "name": "国际IPTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/mylist.m3u"
+            "url": "https://xsmt.ccwu.cc/xsmt/smt.php",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "移动ITV",
@@ -584,7 +580,16 @@
         },
 
 
-
+        {
+            "name": "国际ILOOK",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/ilook.m3u"
+        },
+        {
+            "name": "国际IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/mylist.m3u"
+        },
 
 
 
