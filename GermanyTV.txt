@@ -1,0 +1,409 @@
+#EXTM3U
+#EXTINF:-1 ,AMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35e7251476a9482a957e7abfed065f86:bf9a301292298a0fb6e81bf55f4817e8
+https://cdn.trimi.com.ar/live/sm-live/AMC/sa_live_dash/AMC.mpd
+#EXTINF:-1 ,Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0ec7548e754414b865772290b8e4188:cca73b168ed0acc946e89f00bcd51080
+https://cdn.trimi.com.ar/live/sm-live/ANIMAL_PLANET/sa_live_dash/ANIMAL_PLANET.mpd
+#EXTINF:-1 ,AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=451633bd019d424aa446e20b565f2f18:78b21bcf86c8513527f62d3587a84be9
+https://cdn.trimi.com.ar/live/sm-live/AXN/sa_live_dash/AXN.mpd
+#EXTINF:-1 ,Baby TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6636c4891a34c8490d33f71dc273b27:831e07d055984d3a1810ed8ed28536bc
+https://cdn.trimi.com.ar/live/sm-live/BABY_TV/sa_live_dash/BABY_TV.mpd
+#EXTINF:-1 ,Canal E
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab2a8490e0c4b4882bb75be05fb53e7:252c23f9511f5b68eeb2a05bdc38e805
+https://cdn.trimi.com.ar/live/sm-live/CANAL_E/sa_live_dash/CANAL_E.mpd
+#EXTINF:-1 ,Cartoon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eba88d2678284eba880b1c0465eb63dd:a2af7e1701e1a9ab1ee380719e56ad12
+https://cdn.trimi.com.ar/live/sm-live/CARTOON/sa_live_dash/CARTOON.mpd
+#EXTINF:-1 ,Catoonito
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08c256c2691645c7862b0859676f3613:d36fdcc51ca4c3e69a76a34c1bcbbca1
+https://cdn.trimi.com.ar/live/sm-live/CARTOONITO/sa_live_dash/CARTOONITO.mpd
+#EXTINF:-1 ,CineAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ce6f8eb80d04692a1e77fa788dc6136:269ca950fc51d37ed86c31f72a20e455
+https://cdn.trimi.com.ar/live/sm-live/CINE_AR/sa_live_dash/CINE_AR.mpd
+#EXTINF:-1 ,Cinecanal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a39970fe96ff4b3a8292e7c7c086e6f7:8af75757b1dbf558dba71ed1eaa0c9f0
+https://cdn.trimi.com.ar/live/sm-live/CINECANAL/sa_live_dash/CINECANAL.mpd
+#EXTINF:-1 ,Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac9b49622e0f4cc68d77d374f18b0151:30d4af51cbf312d161178dd3e0057647
+https://cdn.trimi.com.ar/live/sm-live/CINEMAX/sa_live_dash/CINEMAX.mpd
+#EXTINF:-1 ,CM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3e1536281014094b4afc959272cebdb:bfe37eac089097ba8361b5e85f52320c
+https://cdn.trimi.com.ar/live/sm-live/CM/sa_live_dash/CM.mpd
+#EXTINF:-1 ,CNN ESPAÑOL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4430f4f7db7842728ebda66733b417d4:4aa36f077675e9db4dea11a9100d424d
+https://cdn.trimi.com.ar/live/sm-live/CNN_ESPANOL/sa_live_dash/CNN_ESPANOL.mpd
+#EXTINF:-1 ,Comedy Central
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2917ac690c3546b6988dabbe7c5a7bbf:914b05782000ea5f2571a7e1a106c20a
+https://cdn.trimi.com.ar/live/sm-live/COMEDY_CENTRAL/sa_live_dash/COMEDY_CENTRAL.mpd
+#EXTINF:-1 ,Deportv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=699fee61524a45e58b470ca18a6c251f:f45c612f4f5b26151e62fe4ec34bc743
+https://cdn.trimi.com.ar/live/sm-live/DEPORTV/sa_live_dash/DEPORTV.mpd
+#EXTINF:-1 ,Discovery Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbc1a31ab534cbb84ecd4bf643bb892:e88cebf2c562fbc15d993f30912678eb
+https://cdn.trimi.com.ar/live/sm-live/DISCOVERY_KIDS/sa_live_dash/DISCOVERY_KIDS.mpd
+#EXTINF:-1 ,Disney
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb672e305c9437eacdbc9d089d22d55:12472c24acd1d9f45af3e506d8de76da
+https://cdn.trimi.com.ar/live/sm-live/DISNEY/sa_live_dash/DISNEY.mpd
+#EXTINF:-1 ,Disney JR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ab0e382392041d0ba4e0c8614d86f54:b2eeb65ed3963f7b36656ded24b3fe0d
+https://cdn.trimi.com.ar/live/sm-live/DISNEY_JR/sa_live_dash/DISNEY_JR.mpd
+#EXTINF:-1 ,DW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4769af734e004117bd6b64ee8286921d:44f28e6473d5f60f872bec5192301b43
+https://cdn.trimi.com.ar/live/sm-live/DW/sa_live_dash/DW.mpd
+#EXTINF:-1 ,E!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bbbb68242524acaa5ab88867e0bb691:1bf0640adcbc0460d415ea16069de0d5
+https://cdn.trimi.com.ar/live/sm-live/E/sa_live_dash/E.mpd
+#EXTINF:-1 ,El Gourmet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22733751e0d3459cb14f95a784868197:56532e9fa1d87daff000e7fd163b3df8
+https://cdn.trimi.com.ar/live/sm-live/EL_GOURMET/sa_live_dash/EL_GOURMET.mpd
+#EXTINF:-1 ,Encuentro
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e972f2d0f70645a38bdea2d3a80d39cf:3434914bd095577b869429d845193a46
+https://cdn.trimi.com.ar/live/sm-live/ENCUENTRO/sa_live_dash/ENCUENTRO.mpd
+#EXTINF:-1 ,ESPN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2370ca5b9094aabaadc5e0f4a9679ca:a3b13386e6929346c23ca8a48f4cfa9d
+https://cdn.trimi.com.ar/live/sm-live/ESPN_3/sa_live_dash/ESPN_3.mpd
+#EXTINF:-1 ,ESTRELLAS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92c3a3d9f95b475e9dde2e96fc0fb488:12c3659a8ae6018dba67cb5eda213c7d
+https://cdn.trimi.com.ar/live/sm-live/ESTRELLAS/sa_live_dash/ESTRELLAS.mpd
+#EXTINF:-1 ,Eurochannel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbea855152f3452d8e4665613eb0bf82:f87321802f4a903dcb8722a04c341825
+https://cdn.trimi.com.ar/live/sm-live/EUROCHANNEL/sa_live_dash/EUROCHANNEL.mpd
+#EXTINF:-1 ,Europa Europa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89ad48f00883461e87e8d2b226fdc1e9:23a27110103ebbaad69df89453f70ee1
+https://cdn.trimi.com.ar/live/sm-live/EUROPA_EUROPA/sa_live_dash/EUROPA_EUROPA.mpd
+#EXTINF:-1 ,Film & arts
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89fc98ea91754320aaf27a591deb4d1c:557175d6cb24ec6ff6f05f9c66f0a505
+https://cdn.trimi.com.ar/live/sm-live/FILM_ARTS/sa_live_dash/FILM_ARTS.mpd
+#EXTINF:-1 ,Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=017c92fcc7f74deb96622a3e42c2843d:2fed7e626e30a5ffbe4abfcb6770c24d
+https://cdn.trimi.com.ar/live/sm-live/FOOD_NETWORK/sa_live_dash/FOOD_NETWORK.mpd
+#EXTINF:-1 ,Fox Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb87b63bd6ea4005b66b41cdaca7ba9b:bb54f7132fb47d804723ec429ef65c81
+https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd
+#EXTINF:-1 ,FX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed81783173a34b9a8f0ea67cf772db2a:bf1ff16f13c67e0d2a4a1bedada582d1
+https://cdn.trimi.com.ar/live/sm-live/FX/sa_live_dash/FX.mpd
+#EXTINF:-1 ,Garage
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7abc32eda1d54bf0bf3b01240a4270ed:fd91025449379074ac5d8824c140e7d7
+https://cdn.trimi.com.ar/live/sm-live/GARAGE_TV/sa_live_dash/GARAGE_TV.mpd
+#EXTINF:-1 ,Golf Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=472d5fe5f6ae4063bc9cbd2377076589:30210605c23e8b1117c3b5c7701892a7
+https://cdn.trimi.com.ar/live/sm-live/GOLF_CHANNEL/sa_live_dash/GOLF_CHANNEL.mpd
+#EXTINF:-1 ,H2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3d25d070677428db8a4e2e011de35b9:b2015ad3427f8b660621f840aca4af65
+https://cdn.trimi.com.ar/live/sm-live/H2/sa_live_dash/H2.mpd
+#EXTINF:-1 ,HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b748b7e967884690956dd5ec1609c661:c3666ed5f172f2f890a775361587b7e3
+https://cdn.trimi.com.ar/live/sm-live/HBO_FAMILY/sa_live_dash/HBO_FAMILY.mpd
+#EXTINF:-1 ,HBO Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58ded572926940b19e275d4956deda3c:a8018610386328f46738aa830453a6e2
+https://cdn.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS.mpd
+#EXTINF:-1 ,HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=615dfe1b92f34ebd997209dfe8e74cb9:4ab6b3b7dd17d359d416647e8d88cdad
+https://cdn.trimi.com.ar/live/sm-live/HBO_SIGNATURE/sa_live_dash/HBO_SIGNATURE.mpd
+#EXTINF:-1 ,History
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0173519ec54c7b9ec8e0891b13c03c:36c517b9b4f2b5fdc6072baf33a25e94
+https://cdn.trimi.com.ar/live/sm-live/HISTORY/sa_live_dash/HISTORY.mpd
+#EXTINF:-1 ,Home & Health
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba6b8d98ee954ba2a568c90b814be9ba:43632a68f81a779d04ae6035272f218f
+https://cdn.trimi.com.ar/live/sm-live/HOME_HEALTH/sa_live_dash/HOME_HEALTH.mpd
+#EXTINF:-1 ,HTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=332fe5d3376f495999ab9fcc3a09d6e6:efbf5c5c94f2777d9385aa0bcb285783
+https://cdn.trimi.com.ar/live/sm-live/HTV/sa_live_dash/HTV.mpd
+#EXTINF:-1 ,ID
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=008463d7a8de44f698981595169c10fd:e0f50ce8af11ee97400bf11637d94172
+https://cdn.trimi.com.ar/live/sm-live/ID/sa_live_dash/ID.mpd
+#EXTINF:-1 ,Lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b6d3d8bdef64b08b35eb98cef5b7512:6a72b57d7d80f19194f55e544e7a2a07
+https://cdn.trimi.com.ar/live/sm-live/LIFETIME/sa_live_dash/LIFETIME.mpd
+#EXTINF:-1 ,MTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9618a1c31aae4d9989e8a6e32103382e:f58d97001d226b9506888c9d2a4f8872
+https://cdn.trimi.com.ar/live/sm-live/MTV/sa_live_dash/MTV.mpd
+#EXTINF:-1 ,MTV 00s
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e3af97131a54c4b916e2fb74b09ae53:e9181b84a5d0122ad24fba7596f3fc20
+https://cdn.trimi.com.ar/live/sm-live/MTV_00s/sa_live_dash/MTV_00s.mpd
+#EXTINF:-1 ,Nat Geo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cc922325d964dc6af52bc00c93a5fc8:19d07388f5284137a7b6eea3bdcf9df3
+https://cdn.trimi.com.ar/live/sm-live/NAT_GEO/sa_live_dash/NAT_GEO.mpd
+#EXTINF:-1 ,Nick
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bc619a1a4994207b178c31d251b1852:208f071a5aa2f68d2ac55f57a61d2413
+https://cdn.trimi.com.ar/live/sm-live/NICK/sa_live_dash/NICK.mpd
+#EXTINF:-1 ,Nick jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d61ca4efb76b43b89cc4180958edbfce:95315da03f990fa4cf950c0141a4c4c1
+https://cdn.trimi.com.ar/live/sm-live/NICK_JR/sa_live_dash/NICK_JR.mpd
+#EXTINF:-1 ,Paka Paka
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93114df10b242f7bc447d5351ecf84a:4d8fec73c75ac428aa214471196f332d
+https://cdn.trimi.com.ar/live/sm-live/PAKA_PAKA/sa_live_dash/PAKA_PAKA.mpd
+#EXTINF:-1 ,Paramount
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4e6b00b29c84110829208225723d74f:6201e040d30dd4131baf791c74898c52
+https://cdn.trimi.com.ar/live/sm-live/PARAMOUNT/sa_live_dash/PARAMOUNT.mpd
+#EXTINF:-1 ,Provincial
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_dash/PROVINCIAL.mpd
+#EXTINF:-1 ,RAI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=119bac9de6a34fb7844466e2c0625984:ad6d7b3d2d752a1a78ee4cf483d29d38
+https://cdn.trimi.com.ar/live/sm-live/RAI/sa_live_dash/RAI.mpd
+#EXTINF:-1 ,Santa María
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_dash/SANTA_MARIA.mpd
+#EXTINF:-1 ,Science
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61453cf0bc184c0ea3c9a8290460df8c:374dc36f498a9bd6608dd716595c83a2
+https://cdn.trimi.com.ar/live/sm-live/SCIENCE/sa_live_dash/SCIENCE.mpd
+#EXTINF:-1 ,Sony
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=786868f2a5a843dc99030ba829382cdf:1dd03c0b202f12a51e351cf03655b550
+https://cdn.trimi.com.ar/live/sm-live/SONY/sa_live_dash/SONY.mpd
+#EXTINF:-1 ,Sony Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1caed3009f584a919c39623408697540:b978808cc8be700a40de8e7704a2cf8f
+https://cdn.trimi.com.ar/live/sm-live/SONY_MOVIES/sa_live_dash/SONY_MOVIES.mpd
+#EXTINF:-1 ,Space
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a9c0a7dec5e49bf9b018ff4412be393:cbcdfffb4322ee726d4d1729a8dacf5c
+https://cdn.trimi.com.ar/live/sm-live/SPACE/sa_live_dash/SPACE.mpd
+#EXTINF:-1 ,Star
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e848170ca304178b8f88943edc2c42b:54e0b083eb9f9bed734df744d0c0e366
+https://cdn.trimi.com.ar/live/sm-live/STAR/sa_live_dash/STAR.mpd
+#EXTINF:-1 ,TCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f973d766bdc4d4587652391f18dec64:db4e5f0587184f09a22f7b286bf54d4a
+https://cdn.trimi.com.ar/live/sm-live/TCM/sa_live_dash/TCM.mpd
+#EXTINF:-1 ,Teen Nick
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=664cc28a59864059b80feda579e9f9b7:c4314017c1617f7383327b7b37885ed8
+https://cdn.trimi.com.ar/live/sm-live/TEEN_NICK/sa_live_dash/TEEN_NICK.mpd
+#EXTINF:-1 ,TELESUR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f67b9efeace743cb8f70b72abbc9c35a:47cdfdf0ecc45c07b6d4c711cc5178fa
+https://cdn.trimi.com.ar/live/sm-live/TELESUR/sa_live_dash/TELESUR.mpd
+#EXTINF:-1 ,Theater
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a073fa0fdbd443189cde9fa46319b734:1bebd1178d272d5d65a8a06a2a4e3f77
+https://cdn.trimi.com.ar/live/sm-live/THEATER/sa_live_dash/THEATER.mpd
+#EXTINF:-1 ,TLC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78c06152e3384356aa52768a06c961e0:e66c51669f1f37fdca7e7917cd7401d1
+https://cdn.trimi.com.ar/live/sm-live/TLC/sa_live_dash/TLC.mpd
+#EXTINF:-1 ,TNT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7df5d516c1644978aafd9a6f00846adc:fe5591c37341ef9870d5bf272880b896
+https://cdn.trimi.com.ar/live/sm-live/TNT/sa_live_dash/TNT.mpd
+#EXTINF:-1 ,TNT Novelas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e24ece68ef22440f98b5a589589e86f7:7d3773905780c9711cf5a6cd2f6d903c
+https://cdn.trimi.com.ar/live/sm-live/TNT_NOVELAS/sa_live_dash/TNT_NOVELAS.mpd
+#EXTINF:-1 ,TNT Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=653b324749e746d2acb999b58e585027:6eb5e42a2f321b7507dc4e6aed472630
+https://cdn.trimi.com.ar/live/sm-live/TNT_SERIES/sa_live_dash/TNT_SERIES.mpd
+#EXTINF:-1 ,Tooncast
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c789a53501c64b67823f376417c2ccf8:2fcda015ff039142fd80ec508d47a9ff
+https://cdn.trimi.com.ar/live/sm-live/TOONCAST/sa_live_dash/TOONCAST.mpd
+#EXTINF:-1 ,Turbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=074581b5931d4566b4aff60eac2b63a8:ec763028d2d7b7f6eb81931db1ce7724
+https://cdn.trimi.com.ar/live/sm-live/TURBO/sa_live_dash/TURBO.mpd
+#EXTINF:-1 ,TVE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adb19b9b6e2c4a378909eb32c0921f27:9e53d1a886282fe7bfe4218f0ac3ba24
+https://cdn.trimi.com.ar/live/sm-live/TVE/sa_live_dash/TVE.mpd
+#EXTINF:-1 ,Warner
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c5cc73c9e6b4b8faf8e560093b011d8:ced4c396cf75c55b1cf68fb831bd1351
+https://cdn.trimi.com.ar/live/sm-live/WARNER/sa_live_dash/WARNER.mpd
+#EXTINF:-1 ,World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06b741b50ea04427a5839939adbdd31d:42ba3c440f951884019c168b2ade292d
+https://cdn.trimi.com.ar/live/sm-live/WORLD/sa_live_dash/WORLD.mpd

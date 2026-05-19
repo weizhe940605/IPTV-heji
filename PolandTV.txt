@@ -1,0 +1,547 @@
+#EXTM3U
+#EXTINF:-1 ,13 TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaf3fea635e74b459a4487764be839f8:414df07be433672484ad33f7982eef82
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP127/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,24 Horas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc933ded33b423eaceeb961ac3e230b:15ed054c21608fbdf83bd471b29abd66
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP041/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e87e4ac6de774f54982ecfed5fa70035:e833708ad8abd5f5c9f70a15e9ba4c89
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP092/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,AMC Break
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26fbfa9b3b00438fbc18b5c54b8c9c5e:4d2db73d016d575fdc005b9985e9209f
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP071/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,AMC Crime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3065eb3b6764996883258c68dc29b74:a88c633ac1035dd8bf52926524630c45
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP030/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,AMC HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b249199fa740409ef305b5bf55a571:f3adbe6cbe3fccf651843fc01bc109c1
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP007/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Andalucía TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a319f510c5af45c1b5542a36e4ccbe32:7211234c581e69e3f0746f23368b5e80
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP125/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Antena 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8237067f4b584be5a005907d0f2f85d8:667a1671bdd50ab62e28ea8bb3e54bce
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP002/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+#EXTINF:-1 ,Atreseries
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5ff2cd41a31414ab947f7f99dd5a815:9d910f419319affe8dfe9099328d6eea
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP137/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d3801618cf40feb50b8b9929c780f6:993b92caf8fc7e17354f3bdb07e9e801
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP012/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,AXN Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e31fe1703c84a1ab5b767a21a5a54da:fa0bd8dcb967d52c56773f1352ddbdc4
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP018/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,AZ Corazón
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4cda890def54b419e827607b492ee90:816bac7281339c0aca9106a2a244e932
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP058/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Baby TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d20e29cf99fe4151be3310fbe50b79c4:d0b282566ce61f080f592b5330ee4fe1
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP061/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,BBC World HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b73140f5cd98464999601c1d18b639f5:a2a6711b9c516047635e7a086485c1a6
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP091/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,BE MAD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80fd975ce28f4bd58036ed39b1dbaced:25b03d0e6a8e452cf9a48c135f4f4d73
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP138/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Bloomberg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34d2208d9e274272b74ecf7bf9fbe546:2461ac7e0be628873f11c08e71c353c8
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP088/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Boing
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc9912305d34bee8ed02796534df7ce:1e6139c49982ae4a561f9740294be677
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP172/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,BOM Cine
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa37ddc439b94b1482ffa9ebf7d5be6e:97694931c656b5d09c3fb3d0f4d3c9b7
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP240/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Buenviaje
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c8cb96993ff44f38abec66b3b778122:5ca89b83e2e155c8411f66e7744b2731
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP078/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Calle 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea08d0f6869d45a98c2d5b195b03338e:635ebf5f2c03cbf8dfeddd41b3a1800e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP010/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Canal Cocina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=feb47bf77fcd422e920923d9267a41e1:4017f3656bdb1938f506a37923b52ba3
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP035/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Canal Decasa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eacc187f843d4a42a5e2a939cfc79fce:526a8d1618201cae92ba12d675406323
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP036/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Canal Galería
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1784e75ec8c4059b4968a5f95b6fa8b:8443e46d9dc66d1c6a80155040a83d02
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP070/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Canal Historia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be8bf1be4a34ae0a73bb3aba965c230:7f4add402618c41500b631364ca98d7a
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP029/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Canal Hollywood
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c21f44d50edb44e2b7f91aabdd884938:09a33e580104eadbdbf1a02b039c3e98
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP006/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Canal Parlamento
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99bc05e24b5c430a9b47df3f849bca54:e5309d16ea09acd20b1517079ead92d4
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP093/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Canal Sur Andalucia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a319f510c5af45c1b5542a36e4ccbe32:7211234c581e69e3f0746f23368b5e80
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP125/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,CGTN Español
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce6ccef1f2844745b30ce5f5d7b428b7:0af22c07edf19ee6fe3f99226350e931
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP085/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Clan HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a53501698f54d33b4539e48a2d1af25:591af0898742a354bead6631ea912aaa
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP060/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,CNBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f6b213bbe534d868aa2f1c6a8e3b16a:fe09e04a8234f3010f2edc40758eba7e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP089/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,CNN Int
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d208de7ffc347f49816c808e8b74ea9:6ade99944fefe73250b23eb3c257bdef
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP090/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Comedy Central
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7664734a83894be8987c4a40a8f6bbdf:210e029d7802bbdd87ca9dc7c2a108ae
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP016/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+#EXTINF:-1 ,Cosmo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43e12ab9f8944eb19351ec6317249251:fb75d33f8eb9b92b34007fed365b4679
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP014/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Cuatro
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34b996d03c5c4d73b9d48052cc2ce24e:394653b6fc7e012c04443747bf509ff2
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP048/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Cubavisión Internacional
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=050e52701fab4862a9d3864b676b1780:01cc8fa412639b84efdcb76188651f93
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP121/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,DARK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c222683ce3b4717b5d11c75e2b6de7b:8abcd04a612646374180e577d9e80363
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP193/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Deutsche Welle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6745ab68cf4afc859d989d5320bf7d:2e56115efa66e3a5a98a6bcc2294f458
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP109/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4962efb0852c402aab104ec27b063e4a:f6be2236eb974cfc6ab0f00330f310f8
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP028/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Disney Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c84c6de7f57f4c06913c01c94b2e041a:f0297d67bf451a9f8ac22867f912cf8c
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP021/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Disney Junior
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9aa27e456f5d4b1c86555586a3cf30f1:cd88a26100d6c159820911bc4dfdecc8
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP023/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Divinity
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b05a99ea338b40c3936aabf1e5b55a2e:6b16c4828bff671621217b1b6d5bcf87
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP056/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,DKISS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb7b20b258584adfb3477ae648d27298:b150a0d422de2be5a6f2887d91db9c3c
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP128/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,DMAX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76eac17ef5014ff7a4879c18dc577803:5e099f092f42254c9ec4312d54ee344e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP073/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,DREAMWORKS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=001799b22f594b069807a4e6f07ce93a:8fe425da8974a314906328f90c6ac8f3
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP197/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+#EXTINF:-1 ,EITB Basque
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2f75c1ab6504435a0c098318156e0f8:4919150d6b4c51e753ff8c561e042180
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP123/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,El Toro TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9515482080d741e69df897ff4636a3bf:d6bbf6c7e0cc2ffe1bafe2dab26fd167
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP111/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,El Trece Internacional
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340fc2df41e743b58b9f8c553f6bf4f0:a556cf1bc523cb1f60e3af81aac62348
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP116/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Energy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80a1352931b84dd2b7e18a2274831c1e:5e1cb0a705be116e68530a555bd19eda
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP074/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,EnFamilia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848e0ce9be8d4d2ea62c1063759c0fe3:ceba905f9602dda0cae6d8b833839758
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP059/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Euronews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d75b16e962346d8b94ae46f199e5cf1:5adff17ec3ff07a3eebe28edf919b50e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE%24CUP040/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Eurosport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=658f65f3f21647b5a9a8999b8602d60f:4526fcc479cc523f6fe8a445857499b6
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP063/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,EWTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef529d8f2c1b41fdb22620f94046e8d5:dfd52cb9b1ae5e47d10565754e985a32
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP094/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Extremadura SAT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1d9e3244c12450685271dbe22f47f30:f48550c80f7fc8dd4c1aa0b3746e33ac
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP126/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,FDF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7dd0c046565479e8fa6fd1862b56234:6a6ba192e33df8d6df2c18e91fa4874f
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP057/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,FOX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b70c1cfa0014bac814e396955ef4c8f:6d91dbb976489658b11220822f571756
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP011/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+#EXTINF:-1 ,France 24 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c53f5de8064490a9736406357c2448:8829505c8beaf8d97ca3779a8eef2de5
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP087/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Gol Play
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=483b104a65a7461a9062b63ae6bb5b6b:048fd4b8e67808b56c6fbde51e024200
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP156/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,LA 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98c422903bec495e8a6f79168adb4221:97ae7fe3df7e5a3b4e92618fb5a83a6c
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP001/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+#EXTINF:-1 ,LA 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f53d3251cf14978b42f810615f3893a:6d82bfbdf887b843c27662367ddca7ad
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP047/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+#EXTINF:-1 ,La Sexta
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1527c4bce44eb386053b17d38e6d17:5efeb23117cc7dee630d809cbcae0c20
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP003/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,LALIGA TV 3 HYPERMOTION
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16c43cb8782c4bb09cde6c94b50014f0:a5db348840dc7629b91fc9c220e537d5
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP229/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,LALIGA TV HYPERMOTION
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f95567a688a44e19096930d08ee15e8:264bda98265b4f43740b7f05c5e8f89e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP227/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Mega
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e357e86dea1486db88cbec3393b069c:084f2847f0aea5c388c83bb2b7302a49
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP004/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,MTV España
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39846e74fe2a41e8b0b56fe829cbca0b:dc0b6df6bd5aab13271f8df04f03e09b
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP055/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Myzen TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dec84d137ea3473ca9a35e2e00a01828:47272eb5086472c8bd434f6e5fd5be79
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP076/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Nat Geo Wild
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a02c5001d9164503981b8e757790fea1:167a48072c682aa87525ca87d585201a
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP033/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,National Geographic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4a7ab40331d48a39e408e4dcb5e9527:319b2954f9ab7e525d78c7ce196cb324
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP034/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Neox
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e52afa5b327547a6ad81329444dcb1cf:8590e89ea49002bb5a5e6989ee57d13a
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP019/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=123f2549e70347ffb84a8f1152663c5a:58db92b0d88695f399c324f4ffbecede
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP024/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Nickelodeon HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd59612844fa44cab2be6255cb2e99fb:76a5d41d082671f4c56f35b0d92ffd9b
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP025/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Nova
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b5e8e1a1f9f4f588b48ddbd11daaf97:b4ea9c044dcfcc0a577ec896984d621e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP020/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Odisea HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b430a97a11f94fdd8830c27310805b61:9b1d667c07dcce2ef881462de22f0df0
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP031/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Paramount
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11abc5b1c5d941979ab35a0fcf1a218d:1d6c975ad75ebfef5f48b6a15830279e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP054/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Pro TV International
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4a3347223f0405c8ec8df1d2a8b386a:e3c53ec81e16e9d0988f3607eeceb13e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP114/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Real Madrid TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d070ca808b441d7974c8cb93866c234:597e27bd13f2f42dcbd9bb03c0d7b590
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP145/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,RTM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adbcc79c6f5f49028220116731716d2c:2a76c8057cf4d9dbef3784cc3e703f11
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP112/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,Selekt TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ed068c1b3254c5082e17bfd81d9b5c4:e90843add062a30c3749aefaadf18b33
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP231/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Sundance TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88ff8b4028304e13975bd55841e31c89:2cc947b98b3988569dd099c0e029b519
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP009/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Syfy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239f03b8319f4d3098f241c1a42008b7:00ffdda1317dc89d255dad7e56bcd525
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP015/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
+#EXTINF:-1 ,TCM HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e7b14b8b4d420aa96879c5a6235045:3b3b86c266f0ad354844542491ef7cfb
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP008/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Telecinco
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ffad74fc164482cab0202da652d01d4:8f9e8555ae2872fc1cc6bf08d1d8904a
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP049/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Teledeporte
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d40d5c008524e2d8a11d28e4901e525:e24d74ac61b65ee9a0eb9a7102aff7c9
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP065/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,TEN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad9b331f4d404526a25f95b20ba0649e:0df1980a2f782d8b992c39356f9c54fe
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP129/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,TV Chile Internacional
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91bdf8620ede46539da71600722e6ee3:70e96e3ac062117bec89696107642c41
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP120/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,TV Polonia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab0661db429426694d1dcaab039d3b8:c84fc159cd97b1edd339ad74a7a80100
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP113/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,TV3 Cat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51cc4ccac00346fcb3a44f5276d23f79:3702a70f77578a06ccaa5bc4f201135f
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP124/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_SD
+#EXTINF:-1 ,TV5 Monde
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f263518ea721421193ddf7309f329f33:66473cf22ccd5ffcd5cab912e724436e
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP110/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,TVG Sat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9151ba423e04c53a44cc70cb24e13eb:0b9148e1879df1f35d8e4810a9a204f3
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP122/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Ve Plus TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4cda890def54b419e827607b492ee90:816bac7281339c0aca9106a2a244e932
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP058/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ef80b1083b04260ac1b87e5d75de574:0bdc434d3097ca1a0f1dafbca481f253
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP013/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 ,XTRM HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=858d1430aafd4a319df9bc734d499b24:32806f4b8ebd9337b6dc51451d772c5a
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP005/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
