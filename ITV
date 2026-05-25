@@ -21,12 +21,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "23888",
-            "type": 0,
-            "url": "http://115.29.208.41:23888/api.php?token=c74a985ca67f1826395b1c448824c55a&type=m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "咪咕直播",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/adminouyang/jy/refs/heads/main/proxy/mg.m3u",
